@@ -1,1 +1,1 @@
-This repo si for learning ModernJS.
+This repo is for learning ModernJS.
